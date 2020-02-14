@@ -1,0 +1,11 @@
+__pycache__
+venv
+
+# env files
+.env.*
+
+# Log files
+logs
+
+# Editor directories and files
+.idea
